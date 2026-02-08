@@ -1,0 +1,2 @@
+# lung cancer detection project
+This project presents an Artificial based system that detects the presence of lung cancer from medical images such as CT scans or X-Ray images . The system uses deep learning, specially Convolutional Neural Networks(CNNs) to automatically analyze lung images and classify them as Cancerous or Normal. The objective is to assist doctors or healthcare profesionals by providing a preliminary automated diagnosis, reducing manual effort, time and human error
